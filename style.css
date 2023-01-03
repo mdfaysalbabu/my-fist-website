@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: brown;
+}
+.babu{
+    background-image: url(./pexels-photo-1229861.jpg);
+    background-size:cover;
+    height:300px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align:start;
+    color: crimson;
+}
+#tube{
+    text-align: center;
+    color: darkorange;
+}
+#mumu{
+    text-align: center;
+    color:goldenrod
+}
+#mu{
+    text-decoration: dashed;
+    color:orange;
+    text-align:start;
+    
+}
+#m{
+    text-align: right;
+}
+#f{
+    background-image: url(./pexels-photo-716398.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 50px;
+}
+#a{
+    text-align: center;
+    color: red;
+    text-decoration: wavy green;
+}
